@@ -1,0 +1,8 @@
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.deps.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.runtimeconfig.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.runtimeconfig.dev.json
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\DeckOfCards\bin\Debug\netcoreapp1.1\DeckOfCards.pdb
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\DeckOfCards\obj\Debug\netcoreapp1.1\DeckOfCards.AssemblyInfo.cs
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\DeckOfCards\obj\Debug\netcoreapp1.1\DeckOfCards.dll
+c:\Users\benpe\Dropbox\School stuff\CodingDojo\DojoAssignments\C#\Fundamentals\DeckOfCards\obj\Debug\netcoreapp1.1\DeckOfCards.pdb
